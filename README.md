@@ -1,18 +1,32 @@
 # Documentation Hub Portfolio: Confluence Implementation
 
 ## Challenge
-Policies, SOPs, and guides were scattered, inconsistent, outdated, and hard for the team to follow, making compliance and onboarding inefficient.
+Policies, SOPs, and operational guides were fragmented, inconsistent, and often outdated, making compliance efforts difficult and slowing onboarding and day-to-day execution.
 
-## Solution
-- Built a **centralized Confluence hub** for all company policies, procedures, guides, and onboarding materials.
-- Organized content into team pages, project guides, and process documentation for easy access.
-- Standardized formats and workflows to ensure consistency and ease of updates.
+---
+
+## Solution Overview
+I designed and implemented a **centralized Confluence documentation hub** to serve as the single source of truth for company policies, procedures, and operational knowledge.
+
+### Documentation Hub Design
+- Built a centralized Confluence space to house policies, SOPs, guides, and onboarding materials  
+- Organized content into team spaces, project guides, and process documentation for intuitive navigation  
+- Implemented page hierarchies and templates to improve discoverability and usability  
+
+### Standardization & Governance
+- Standardized documentation formats to ensure consistency across teams  
+- Established update workflows and ownership to keep content current  
+- Defined documentation standards to support compliance and audit readiness  
+
+---
 
 ## Impact
-- Improved compliance and audit readiness
-- Faster task completion and onboarding for new staff
-- Reduced errors and miscommunication
-- Increased team efficiency and self-service access to documentation
+- Improved compliance and audit readiness through centralized, consistent documentation  
+- Reduced onboarding time by providing clear, accessible reference material  
+- Decreased errors and miscommunication across teams  
+- Increased operational efficiency through self-service access to documentation  
+
+
 
 ## Documentation Examples
 - [Company Home Page](Confluence_Company_Home_Page.pdf)  
@@ -22,7 +36,7 @@ Policies, SOPs, and guides were scattered, inconsistent, outdated, and hard for 
 - [Creating a Project](Confluence_Creating_Project.pdf)  
 - [Meeting Notes](Confluence_Meeting_Notes.pdf)  
 
-### Other Security Operations Documentation
+### Additional Security Operations Documentation
 - Access Control Policy  
 - Business Continuity Plan  
 - Custom Team Space Creation Guide  
@@ -30,13 +44,15 @@ Policies, SOPs, and guides were scattered, inconsistent, outdated, and hard for 
 - Information Security Program  
 - Project Charter  
 - Secure Development Lifecycle Policy  
-- SOC2 Compliance Documents  
+- SOC 2 Compliance Documentation  
 - Statement of Purpose  
-- Third-Party Security Assessments
+- Third-Party Security Assessments  
 
-## Overview
-This project demonstrates my ability to:  
+
+
+## Key Takeaways
+This project demonstrates my ability to:
 - Centralize and standardize organizational knowledge  
-- Make policies and procedures accessible and easy to follow  
-- Improve operational efficiency, compliance, and onboarding experience  
-- Organize complex information in a structured, navigable format
+- Create documentation that is accessible and easy to maintain  
+- Improve compliance, onboarding, and operational efficiency  
+- Organize complex information into structured, navigable systems  
